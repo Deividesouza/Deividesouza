@@ -28,5 +28,5 @@
 ---
 
 ### 📫 Como me encontrar:
-- [LinkedIn](https://www.linkedin.com/in/seu-linkedin-aqui/)
+- [LinkedIn]([https://www.linkedin.com/in/seu-linkedin-aqui/](https://www.linkedin.com/in/deivide-souza-ab2407251/)
 - Email: deivide111@gmail.com
