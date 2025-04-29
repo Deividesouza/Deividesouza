@@ -15,7 +15,7 @@
 
 ### 🐍 Snake comendo meus commits:
 
-![snake gif](https://github.com/Deividesouza/Deividesouza/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Deividesouza/Deividesouza/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -24,6 +24,9 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ---
 
