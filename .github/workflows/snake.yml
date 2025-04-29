@@ -8,6 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 👈 necessário para permitir push via GITHUB_TOKEN
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -26,3 +28,7 @@ jobs:
           author_email: github-actions@github.com
           message: "generated snake animation"
           add: "output/github-contribution-grid-snake.svg"
+          push: true
+          pull: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
