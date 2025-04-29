@@ -2,19 +2,19 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Executa todo dia à meia-noite UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # ✅ necessário para permitir push no repositório
+      contents: write  # ✅ Permissão para fazer push
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # ✅ isso garante que o histórico completo do Git seja clonado
+          fetch-depth: 0  # ✅ Histórico completo
 
       - name: Generate Snake Game
         uses: Platane/snk@v3
@@ -30,7 +30,7 @@ jobs:
           author_email: github-actions@github.com
           message: "generated snake animation"
           add: "output/github-contribution-grid-snake.svg"
-          pull: true   # ✅ puxa as mudanças antes de dar push
-          push: true   # ✅ garante que será feito push
+          pull: true   # ✅ Garante que irá puxar antes de tentar dar push
+          push: true
         env:
-          GITHUB_TOKEN: ${{ secrets.snake_svg }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
