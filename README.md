@@ -1,7 +1,6 @@
 ## Olá, Eu sou o Deivide Souza! 👋
 
-🎓 Atualmente estou no **3º semestre** de **Ciência da Computação**.  
-🔭 Trabalho como **Analista de Redes** e **Desenvolvedor de Sistemas**.  
+🎓 Estudante de Ciência da Computação | 💻 Desenvolvedor & Analista de Redes    
 🌱 Estudando atualmente: **Java** e melhorando minhas habilidades em **TypeScript**, **JavaScript** e **Python**.
 
 ---
@@ -32,4 +31,5 @@
 
 ### 📫 Como me encontrar:
 - [LinkedIn](https://www.linkedin.com/in/deivide-souza-ab2407251/)
-- Email: deivide111@gmail.com
+- Email: [deivide111@gmail.com](mailto:deivide111@gmail.com)
+
