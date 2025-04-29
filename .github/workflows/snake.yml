@@ -33,4 +33,4 @@ jobs:
           pull: true   # ✅ puxa as mudanças antes de dar push
           push: true   # ✅ garante que será feito push
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.snake_svg }}
