@@ -5,7 +5,7 @@
 
 ---
 
-🌱 **Estudando Atualmente:**
+ **Estudando Atualmente:**
 - ☁️ **Cloud & IaC:** AWS, Terraform e Ansible.
 - 🐳 **Containers:** Docker e Kubernetes.
 - 🐹 **Linguagens:** Focando em **Go (Golang)** para ferramentas de DevOps e **C#** para fundamentos.
